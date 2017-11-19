@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="http://www.coviam.com/img/product_logo/Engati_logo-chatbot-coviam.png">
     <router-view/>
   </div>
 </template>
@@ -10,6 +10,7 @@ export default {
   name: 'app'
 }
 </script>
+
 
 <style>
 #app {
