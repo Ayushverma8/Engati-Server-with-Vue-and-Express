@@ -4,7 +4,7 @@
 ## Vue.JS in Front end and Express.JS at Backend
 
 ![Image of Website](https://raw.githubusercontent.com/Ayushverma8/Vue-and-Express/master/major.png)
-![Image of Website](https://raw.githubusercontent.com/Ayushverma8/Vue-and-Express/master/API.png)
+![Image of Website](https://raw.githubusercontent.com/Ayushverma8/Vue-and-Express/master/API_1.png)
 
 # vue
 
